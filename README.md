@@ -2,7 +2,7 @@
 For learning purpose
 
 
-## Branching startegy
+## Branching Model
 1. Master Branch
 
 2. Devlopment Branch
