@@ -1,4 +1,1 @@
-sf
-saf
-dsf
-dsafdsaf
+ have added the new lines in the file to test staging of git
